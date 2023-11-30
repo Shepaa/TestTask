@@ -1,0 +1,13 @@
+.active {
+    color: #ffffff;
+    font-size: large;
+    transition: font-size;
+}
+.active:hover{
+    color: #ffffff;
+}
+
+.header{
+    background-color: #001529;
+    padding: 8px;
+}
