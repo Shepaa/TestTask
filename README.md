@@ -22,7 +22,7 @@ To kickstart the Todo App, you need to set up a local server. Follow these steps
 
 Now that the local server is up, proceed to start the Todo App:
 
-### **2.1 Navigate to todo-antd-rtk**
+### **2.1 Navigate to todo**
 
 `cd todo-antd-rtk`
 
