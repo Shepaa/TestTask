@@ -24,7 +24,7 @@ Now that the local server is up, proceed to start the Todo App:
 
 ### **2.1 Navigate to todo**
 
-`cd todo-antd-rtk`
+`cd todo`
 
 ## **2.2 Install Dependencies**
 
